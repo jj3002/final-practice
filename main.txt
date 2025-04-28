@@ -9,9 +9,8 @@ new changes made by jayesh on date 28
 
 hey
 
-<<<<<<< HEAD
-anagha
-=======
 jayesh 
 
->>>>>>> 75c4a34225b912d2c2e52dc02ad04dd2e96c9119
+
+
+anagha
